@@ -8,7 +8,7 @@
 
 ------------
 
-
+<!--
 ### Technologies and tools :
 <img src="https://cdn.svgporn.com/logos/javascript.svg" width="25"> &nbsp;
 <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="25"> &nbsp;
@@ -23,7 +23,7 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pakyardim&" alt="pakyardim"/>
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=pakyardim&layout=compact&hide=json)
-<!--
+
 
 
 - 🌱 I’m currently learning ...
