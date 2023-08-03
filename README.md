@@ -1,6 +1,6 @@
-## Computer Engineering student (2/4) at Muğla Sıtkı Koçman University 
+## Computer Engineering student (3/4) at Muğla Sıtkı Koçman University 
 
-- 🔭 Currently working on React & NodeJS
+- 🔭 Currently working on React & React Native & NodeJS
 
 ### Connect with me:
 <a href='https://www.linkedin.com/in/emirhan-pakyardim-b16904208/'> <img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png" width="30"> </a>&nbsp;
