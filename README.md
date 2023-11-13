@@ -3,7 +3,7 @@
 - 🔭 Currently working on React & React Native & NodeJS
 
 ### Connect with me:
-<a href='https://www.linkedin.com/in/emirhan-pakyardim-b16904208/'> <img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png" width="30"> </a>&nbsp;
+<a href='https://www.linkedin.com/in/emirhan-pakyardim/'> <img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png" width="30"> </a>&nbsp;
 <a href='mailto:emirhanpakyardim@gmail.com'> <img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/154/social-media_email_new-3-512.png" width="30"> </a>&nbsp;
 
 ------------
