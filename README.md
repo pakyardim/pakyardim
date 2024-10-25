@@ -1,4 +1,4 @@
-## Computer Engineering student (3/4) at Muğla Sıtkı Koçman University 
+## Computer Engineering student (4/4) at Muğla Sıtkı Koçman University 
 
 - 🔭 Currently working on React & React Native & NodeJS
 
